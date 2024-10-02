@@ -1,1 +1,6 @@
-https://www.swift.org/getting-started/cli-swiftpm/#a-small-application
+```
+swift build
+```
+```
+swift run MyCLI --input 'Hello, world!'
+```
