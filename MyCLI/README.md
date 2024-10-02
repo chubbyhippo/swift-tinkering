@@ -1,1 +1,1 @@
-https://www.swift.org/getting-started/cli-swiftpm/#adding-dependencies
+https://www.swift.org/getting-started/cli-swiftpm/#a-small-application
