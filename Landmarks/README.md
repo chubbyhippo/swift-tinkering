@@ -1,1 +1,1 @@
-https://developer.apple.com/tutorials/swiftui/creating-and-combining-views#Combine-views-using-stacks
+https://developer.apple.com/tutorials/swiftui/creating-and-combining-views#Create-a-custom-image-view
