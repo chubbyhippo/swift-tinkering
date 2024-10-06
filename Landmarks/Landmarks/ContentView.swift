@@ -20,8 +20,8 @@ struct ContentView: View {
                     .font(.subheadline)
             }
         }
-        .padding(/*@START_MENU_TOKEN@*/.all/*@END_MENU_TOKEN@*/)
-        
+        .padding( /*@START_MENU_TOKEN@*/.all /*@END_MENU_TOKEN@*/)
+
     }
 }
 
