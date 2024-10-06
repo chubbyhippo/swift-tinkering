@@ -1,1 +1,1 @@
-https://developer.apple.com/tutorials/swiftui/creating-and-combining-views#Use-SwiftUI-views-from-other-frameworks
+https://developer.apple.com/tutorials/swiftui/creating-and-combining-views#Compose-the-detail-view
